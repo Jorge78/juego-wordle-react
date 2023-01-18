@@ -9,9 +9,6 @@ function App() {
         <p>
           Proyecto React JS Juego Wordle
         </p>
-        <p>
-          Proyecto React JS Juego Wordle
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
